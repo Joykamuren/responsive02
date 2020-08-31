@@ -1,0 +1,175 @@
+body{
+ font-family:Verdana;
+ color:#aaaaaa;
+ background-color: lightgrey; 
+}
+.flex{
+  color :#fff;
+}
+.joe{
+background-color: #1f2a38;
+color:#fff;
+padding: 5px;
+text-align: center;
+}
+.cafe{
+  font-family: sans-serif;
+  color:#F7CA18;
+letter-spacing: 4px;
+font-size: 0.9vw;
+
+}
+
+.cont {
+background-color: #354457;
+color:#fff;
+text-align: center;
+padding-top: 80px;
+padding-bottom: 80px;
+
+}
+
+p{
+color:#F7CA18;
+letter-spacing: 4px;
+}
+
+h1{
+font-size:2vw;
+padding: 20px;
+}
+
+
+
+.haki{
+
+width: 1100px;
+min-height: 600px;
+background-color: #fff;
+margin: 30px auto 0 auto;
+
+
+}
+
+h3 {
+background-color: #F7CA18;
+padding-bottom: 50px;
+text-align:20px;
+font-size: 1.5vw;
+
+}
+
+.mizani{
+font-size: 1.3vw;
+padding-left: 350px;
+float: left;
+text-align: center;
+background-color: #fff;
+text-decoration:
+color: #000;
+height: 400px;
+padding-top: 0px;
+font-family: sans-serif;
+
+}
+.flex{
+  color: #000;
+  font-family: serif;
+}
+
+#jam{
+float: left;
+padding-left: 0px;
+padding-top: 0px;
+margin-top: 20px;
+margin-left: 20px;
+position: absolute;
+}
+
+.container{
+
+justify-content: center;
+min-height: 100px;
+min-width: 530px;
+background-color: white;
+padding-bottom: 200px;
+margin-left: 202px;
+margin-right: 950px;
+position: static;
+
+
+}
+.p1 {
+margin-left: 1px;
+margin-right: 1px;
+color:#101624;
+font-size: 1vw;
+background-color:#F7CA18;
+padding: 20px;
+}
+
+.get{
+justify-content: center;
+min-height: 100px;
+min-width: 530px;
+background-color: white;
+padding-bottom: 200px;
+margin-left: 770px;
+margin-right: 545px;
+margin-top: -528px;
+}
+.table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 73%;
+  font-size: 1.5vw;
+  padding-left: 350px;
+  text-align: center;
+  height: 400px;
+  padding-top: 0px;
+  padding-bottom: 200px;
+  margin-left: 200px;
+  margin-right: 700px;
+  margin-top: 20px;
+
+  
+
+
+}
+@media only screen and (max-width:620px) {
+  /* For mobile phones: */
+  .menu, .main, .right {
+    width:100%;
+  }
+}
+td, th {
+  border: 1px solid grey;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #fff;
+}
+tr:nth-child(odd) {
+  background-color: #fff;
+}
+td{
+  color:grey;
+}
+th{
+  background-color: #F7CA18;
+}
+footer{
+background-color: #354457;
+color:#fff;
+text-align: center;
+padding-top: -60px;
+padding-bottom: 80px;
+
+}
+.p2{
+  color:white;
+
+}
+
